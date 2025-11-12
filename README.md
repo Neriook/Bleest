@@ -1,1 +1,1 @@
-A dungeon rpg video game
+A dungeon rpg companion themed video game 
